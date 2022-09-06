@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Welcome</title>
+	<title>Welcome123</title>
 </head>
 <body>
 	<h1>Welcome to git training</h1>
